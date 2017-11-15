@@ -1,0 +1,2 @@
+1. Use 'Generator ID group'
+2. Copy the 'UserID.csv' file on 'Group_Messages' (Replace the file)
