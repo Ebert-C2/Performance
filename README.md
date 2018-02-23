@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+## Performance .jmx scripts
 
-You can use the [editor on GitHub](https://github.com/saavedrak/Performance/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Requirements to run scrips
+### Java Installed
+### Jmeter app installed
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
